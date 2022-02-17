@@ -5,7 +5,7 @@ Repositório criado para o desafio do projeto.
 Downloaded repository with "git clone <url>" terminal command.
 
 ## README.md changed
-Description changed after git clone.
+Changed description after git clone.
 
 ## Added README.md to git staging area
 git add README.md
